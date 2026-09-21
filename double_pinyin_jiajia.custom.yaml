@@ -1,0 +1,5 @@
+__patch:
+# Rx: iDvel/rime-ice:others/recipes/reverse_tone:schema=double_pinyin_jiajia {
+  - patch/+:
+      radical_reverse_lookup/dictionary: kMandarin
+# }
